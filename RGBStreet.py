@@ -1,4 +1,4 @@
-#RGB거리 실버 1
+# 1149 RGB거리 실버1
 
 from cmath import inf
 

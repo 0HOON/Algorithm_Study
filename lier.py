@@ -1,4 +1,4 @@
-# 거짓말 1043 골드4
+# 1043 거짓말 골드4
 inputstr = input()
 N, M = list(map(lambda x: int(x), inputstr.split()))
 
